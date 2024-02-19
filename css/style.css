@@ -22,8 +22,6 @@ html {
     font-family: "Inter", sans-serif;
 }
 
-/* Add this CSS to highlight selected seats */
-
 .seat-list li.selected {
     background-color: #1DD100;
     color: white;
